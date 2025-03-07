@@ -1,1 +1,3 @@
-from neurotrader youtube channel: https://youtu.be/NLBXgSmRBgU
+- from neurotrader youtube channel: https://youtu.be/NLBXgSmRBgU
+- book1: https://www.amazon.com/Permutation-Randomization-Trading-System-Development/dp/B084QLXFKW?sr=8-2&language=en_US&ref_=as_li_ss_tl
+- book2: https://www.amazon.com/Testing-Tuning-Market-Trading-Systems/dp/148424172X?psc=1&language=en_US&ref_=as_li_ss_tl
