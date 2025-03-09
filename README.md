@@ -14,6 +14,7 @@
 
  ## Step 2: test
  - in sample monte carlo permutation test
- - create a random permutation of historical price
- - repeat the same process 100 or 1000 times
- - test the strategy on these random historical price
+ - create between 100 and 1000 random permutation of historical price
+ - optimize the strategy variables on these random historical price
+ - the optimized strategy on real price must be better than all the optimized on random
+ - it's a proof that the strategy use a real force in the market and not an artifact of noise
